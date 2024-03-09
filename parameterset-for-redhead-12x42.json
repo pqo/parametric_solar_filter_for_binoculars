@@ -1,0 +1,19 @@
+{
+    "parameterSets": {
+        "J's": {
+            "cover_depth": "7",
+            "cover_gap": "0.25",
+            "diameter": "53",
+            "holder_annulus_width": "6",
+            "holder_depth": "10",
+            "nub_count": "8",
+            "nub_dia": "2.5",
+            "nub_height": "1",
+            "part": "cover",
+            "part_spacing": "3",
+            "ring_annulus_width": "5.5",
+            "wall_thickness": "1.2"
+        }
+    },
+    "fileFormatVersion": "1"
+}
