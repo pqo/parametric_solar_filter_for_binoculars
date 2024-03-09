@@ -1,13 +1,13 @@
 ## Parametric solar filter for binoculars, with nubs for soft lens border
 
-Remixed from Printables model by @ThomasQuinot_333920
+Remixed from [Printables model](https://www.printables.com/model/292763-parametric-solar-filter-for-binoculars-with-nubs-f) by @ThomasQuinot_333920
 
 - Lets you set fractional values for ring_annulus_width and nub_dia
 - Adjusts _nub_clip_dia for a tighter fit
 
 *@ThomasQuinot_333920's original summary*
 
-Remixed from Thingiverse model by efrias and jnavarro1178
+Remixed from [Thingiverse model](https://www.thingiverse.com/thing:2423779) by efrias and jnavarro1178
 
 - Lets you change the diameter to fit your binoculars using the customizer.
 - Has nubs inside the holder for a smooth fit on soft lens border, as found on Orion Mini Giant binoculars
